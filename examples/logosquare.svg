@@ -1,0 +1,13 @@
+
+    <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+      
+			<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+				<rect x="90" y="40" width="120" height="120" fill="green" />
+				<text x="150" y="20" font-size="20" text-anchor="middle" fill="white" dominant-baseline="middle"></text>
+			</svg>
+		
+      <text x="150" y="130" font-size="40" text-anchor="middle" fill="blue" dominant-baseline="middle">
+        sdf
+      </text>
+    </svg>
+  

@@ -1,0 +1,13 @@
+
+    <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+      
+			<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+				<polygon points="150,18 244,182 56,182" fill="orange" />
+				<text x="150" y="120" font-size="20" text-anchor="middle" fill="white" dominant-baseline="middle"></text>
+			</svg>
+		
+      <text x="150" y="130" font-size="40" text-anchor="middle" fill="green" dominant-baseline="middle">
+        oeg
+      </text>
+    </svg>
+  
